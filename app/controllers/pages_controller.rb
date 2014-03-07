@@ -1,6 +1,14 @@
 class PagesController < ApplicationController
-  def home
+  def Home
   end
+
+  def Profile
+  end
+
+  def SkillSearch
+  end
+
+  def SkillChat
+  end
+
 end
- def about
-  end
